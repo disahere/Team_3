@@ -1,2 +1,11 @@
-# Team_3
-GD_1y_39_20_01_24
+Team_3
+
+Name of game: 
+
+Members: 
+
+Position: 
+
+Concept: 
+
+Unity version: 
